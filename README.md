@@ -1,5 +1,5 @@
 # SSRVG
-Code for "Look Around Before Locating: Considering Content and Structure Information for Visual Grounding"
+Code for "Look Around Before Locating: Considering Content and Structure Information for Visual Grounding" AAAI-2025
 ## Dataset Preparation
 referring expression comprehension annotations from: https://github.com/lichengunc/refer
 
